@@ -1,0 +1,7 @@
+{
+  "name": "VoiceCover",
+  "description": "A professional, cross-platform voice messaging application with AI-powered transcription and audio visualization.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
